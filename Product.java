@@ -12,3 +12,8 @@ class Product
     }
 
 }
+
+class Test{
+
+    Product p =new Product();
+}
